@@ -1,2 +1,2 @@
 # testgame
-test server
+testgame
