@@ -1,2 +1,2 @@
-# example-game
-deneme oyunu
+# testgame
+test server
